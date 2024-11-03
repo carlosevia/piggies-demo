@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="ditamap-6447" class="- map/map "><title class="- topic/title ">The Three Little Piggies</title><topicref href="index.dita" class="- map/topicref "/><topicref href="Chapter_1.dita" class="- map/topicref "/><topicref href="Chapter_2.dita" class="- map/topicref "/><topicref href="Chapter_3.dita" class="- map/topicref "/><topicref href="Chapter_4.dita" class="- map/topicref "/><topicref href="Chapter_5.dita" class="- map/topicref "/><topicref processing-role="resource-only" href="reuse.dita" class="- map/topicref "/>
-    <topicref href="test.md" format="mdita"/></map>
+    <topicref href="test.md" format="markdown"/></map>
