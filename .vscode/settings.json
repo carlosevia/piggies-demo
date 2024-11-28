@@ -1,5 +1,5 @@
 {
-    "xml.catalogs": [
-      "https://raw.githubusercontent.com/oasis-tcs/dita/DITA-2.0/doctypes/catalog.xml"
-    ]
-  }
+  "xml.catalogs": [
+    "https://raw.githubusercontent.com/oasis-tcs/dita/DITA-2.0/doctypes/catalog.xml"
+  ]
+}
