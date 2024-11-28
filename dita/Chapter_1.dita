@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<public publicId="-//OASIS//DTD DITA 2.0 Base Topic//EN" uri="basetopic.dtd"/>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic-7194" xml:lang="en-us" class="- topic/topic "><title class="- topic/title ">Chapter 1</title><shortdesc class="- topic/shortdesc ">The three little pigs set out to build their own homes. Each pig chooses different materials: straw, sticks, and bricks.</shortdesc><prolog class="- topic/prolog "><author translate="no" type="creator" class="- topic/author ">Leah Van Blaricom &lt;leahvb@vt.edu&gt;</author><metadata class="- topic/metadata "><keywords class="- topic/keywords "/></metadata></prolog><body class="- topic/body ">
         <section>
             <title>Introduction</title>
