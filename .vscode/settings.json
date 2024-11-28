@@ -1,6 +1,5 @@
 {
   "xml.catalogs": [
-    ".vscode/doctypes/catalog.xml",
-    "/workspaces/piggies-demo/.vscode/doctypes/catalog.xml"
+    "doctypes/catalog.xml"
   ]
 }
